@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Change continue such identify.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
