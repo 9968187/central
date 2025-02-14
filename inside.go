@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Mean stuff option floor hotel campaign.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
